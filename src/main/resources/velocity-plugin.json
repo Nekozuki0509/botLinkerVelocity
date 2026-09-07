@@ -1,0 +1,6 @@
+{
+  "id": "botlinkervelocity",
+  "name": "botLinkerVelocity",
+  "version": "${version}",
+  "main": "com.github.nekozuki0509.botLinkerVelocity.BotLinkerVelocity"
+}
